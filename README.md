@@ -29,5 +29,7 @@ A comparação foi feita entre o gabarito (dados reais), uma Random Forest (base
 
 ## 🎓 Autor do Projeto: 
 **Sérgio Fraga**
+
 **Disciplina Modelos de Linguagem e Generativos**
+
 **Professor Dr. Rogerio de Oliveira** Universidade Presbiteriana Mackenzie
