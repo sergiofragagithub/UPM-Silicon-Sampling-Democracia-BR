@@ -1,8 +1,8 @@
 # UPM-Silicon-Sampling-Democracia-BR
 Projeto 1 - Avaliação de Silicon Sampling em Percepções Democráticas: Uma Análise Comparativa entre Random Forest e Large Language Models (LLM)
-# Projeto 1: Silicon Sampling e Percepção Democrática no Brasil
 
-Este repositório contém o experimento prático realizado para o **Mestrado Profissional em Computação Aplicada (Mackenzie)**, focado na comparação entre modelos de Machine Learning tradicional e Large Language Models (LLM) para simulação de pesquisas de opinião.
+
+Este repositório contém o experimento prático realizado para a **Universidade Presbiteriana Mackenzie**, focado na comparação entre modelos de Machine Learning tradicional e Large Language Models (LLM) para simulação de pesquisas de opinião.
 
 ## 🚀 Objetivo
 Validar a técnica de **Silicon Sampling** utilizando o dataset `04832.SAV` (Percepção sobre a Democracia). O objetivo foi verificar se o modelo **Gemini 2.0 Flash** consegue emular o comportamento de respondentes reais com base em seus perfis socioeconômicos.
