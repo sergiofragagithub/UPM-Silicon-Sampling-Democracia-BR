@@ -32,4 +32,6 @@ A comparação foi feita entre o gabarito (dados reais), uma Random Forest (base
 
 **Disciplina Modelos de Linguagem e Generativos**
 
-**Professor Dr. Rogerio de Oliveira** Universidade Presbiteriana Mackenzie
+**Professor Dr.Rogerio** 
+
+Universidade Presbiteriana Mackenzie
